@@ -39,9 +39,6 @@ disableHugoGeneratorInject = false
 [author]
   name = "Colin De Vlieghere"
 
-[blackfriday]
-  hrefTargetBlank = true
-
 [taxonomies]
   tag      = "tags"
   category = "categories"
@@ -175,3 +172,7 @@ disableHugoGeneratorInject = false
     identifier = "resume"
     name       = "Resume 🠗"
     url        = "Colin De Vlieghere Resume.pdf"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"
