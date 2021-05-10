@@ -156,8 +156,13 @@ disableHugoGeneratorInject = false
     url  = "https://github.com/Cubevoid"
 
   [[params.social]]
+    name = "gitlab"
+    url  = "https://gitlab.com/Cubevoid"
+
+  [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/colin-de-vlieghere/"
+
 
 [languages]
   [languages.en]
