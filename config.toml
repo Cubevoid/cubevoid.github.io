@@ -107,7 +107,8 @@ disableHugoGeneratorInject = false
     author = false
 
     topText = []
-    bottomText = ["Powered by <a href=\"https://gohugo.io\">Hugo</a>",
+    bottomText = ["<a href=\"https://github.com/Cubevoid/cubevoid.github.io\">Website Source Code</a>",
+    "Powered by <a href=\"https://gohugo.io\">Hugo</a>",
             ]
 
   # Colors for favicons
@@ -124,9 +125,10 @@ disableHugoGeneratorInject = false
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor    = "#ffffff"
     # logoCursorColor    = "#67a2c9"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
+    logoCursorAnimate  = "2s"
 
   # Commento is more than just a comments widget you can embed — 
   # it’s a return to the roots of the internet. 
