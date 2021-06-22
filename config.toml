@@ -176,10 +176,11 @@ disableHugoGeneratorInject = false
     name       = "About"
     url        = "about/"
   [[menu.main]]
-    identifier = "resume"
-    name       = "Resume 🠗"
-    url        = "Colin De Vlieghere Resume.pdf"
-  [[menu.main]]
     identifier = "projects"
     name       = "Projects"
     url        = "projects/"
+  [[menu.main]]
+    identifier = "resume"
+    name       = "Resume 🠗"
+    url        = "Colin De Vlieghere Resume.pdf"
+
