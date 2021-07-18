@@ -5,7 +5,7 @@ aliases = ["about-us","about-colin","contact"]
 +++
 ![Portrait](/img/lake.jpg)
 
-Hi! My name is Colin De Vlieghere, and I am a thifd-year computer science specialist (with focus in AI) and mathematics minor at the University of Toronto.
+Hi! My name is Colin De Vlieghere, and I am a third-year computer science specialist (with focus in AI) and mathematics minor at the University of Toronto.
 
 I am passionate about coding and technology, and I love discovering and using cool tech! I primarily code in Python and Java, although I also have experience in C, R, and even MIPS Assembly. To see some of my projects, please go to my [GitHub page](https://github.com/Cubevoid?tab=repositories).
 
