@@ -1,11 +1,11 @@
 +++
 title = "About Me"
-date = "2021-05-08"
+date = "2021-07-18"
 aliases = ["about-us","about-colin","contact"]
 +++
 ![Portrait](/img/lake.jpg)
 
-Hi! My name is Colin De Vlieghere, and I am a second-year computer science specialist and mathematics minor at the University of Toronto. I currently reside in Radnor, Pennsylvania, which is near Philadelphia.
+Hi! My name is Colin De Vlieghere, and I am a thifd-year computer science specialist (with focus in AI) and mathematics minor at the University of Toronto.
 
 I am passionate about coding and technology, and I love discovering and using cool tech! I primarily code in Python and Java, although I also have experience in C, R, and even MIPS Assembly. To see some of my projects, please go to my [GitHub page](https://github.com/Cubevoid?tab=repositories).
 
