@@ -108,8 +108,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = ["<a href=\"https://github.com/Cubevoid/cubevoid.github.io\">Website Source Code</a>",
-    "Powered by <a href=\"https://gohugo.io\">Hugo</a>",
-            ]
+                  ]
 
   # Colors for favicons
   #
