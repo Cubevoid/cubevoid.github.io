@@ -107,7 +107,7 @@ disableHugoGeneratorInject = false
     author = false
 
     topText = []
-    bottomText = ["<a href=\"https://github.com/Cubevoid/cubevoid.github.io\">Website Source Code</a>",
+    bottomText = ["<a href=\"https://github.com/Cubevoid/cubevoid.github.io\">Website Source</a>",
                   ]
 
   # Colors for favicons
@@ -163,6 +163,10 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/colin-de-vlieghere/"
+
+  [[params.social]]
+    name = "mastodon"
+    url  = "https://mastodon.social/@colindv"
 
 
 [languages]
