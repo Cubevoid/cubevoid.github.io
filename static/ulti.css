@@ -1,0 +1,112 @@
+#ulti-root {
+  position: relative;
+  border: 5px solid black;
+  /* box-sizing: border-box; */
+  background-color: green;
+  z-index: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* margin-left: 100px;
+  margin-right: 100px; */
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+#ulti-toggle-draw {
+  cursor: pointer;
+  position: absolute;
+  border: 3px solid black;
+  z-index: 999;
+  background-color: rgb(182, 141, 221);
+  right: 0px;
+  top: 0px;
+  margin: 2px;
+  height: 40px;
+  width: 40px;
+}
+
+/* #ulti-toggle-draw:hover {
+  background-color: rgb(159, 108, 207) !important;
+} */
+
+#ulti-clear-drawings {
+  cursor: pointer;
+  position: absolute;
+  border: 3px solid black;
+  z-index: 999;
+  background-color: red;
+  right: 0px;
+  top: 44px;
+  margin: 2px;
+  height: 40px;
+  width: 40px;
+}
+
+#ulti-clear-drawings:hover {
+  background-color: rgb(255, 84, 84);
+}
+
+.ulti-goal-line {
+  background-color: white;
+  min-width: 3px;
+  min-height: 3px;
+  position: absolute;
+  z-index: 1;
+}
+
+#ulti-canvas {
+  position: relative;
+  z-index: 2;
+}
+
+.ulti-player {
+  position: absolute;
+  transition: all 0.3s ease-in-out;
+  box-sizing: border-box;
+  z-index: 2;
+}
+
+.ulti-player:hover {
+  border: 1px solid white;
+  cursor: grab;
+}
+
+#ulti-disc {
+  background-color: red;
+  border: 2px solid black;
+  box-sizing: border-box;
+  border-radius: 50%;
+  position: absolute;
+  min-width: 10px;
+  min-height: 10px;
+  transition: all 0.3s ease-in-out;
+  z-index: 50;
+}
+
+#ulti-disc:hover {
+  border: 2px solid white;
+  cursor: grab;
+}
+
+.ulti-tooltip {
+  min-width: 5px;
+  min-height: 20px;
+  background-color: rgba(211, 211, 211, 0.7);
+  box-shadow: 5px 5px 10px black;
+  border-radius: 10px;
+  padding: 4px 8px 4px 8px;
+  position: absolute;
+  transition: all 0.15s ease-in-out;
+  opacity: 0;
+  z-index: 999;
+}
+
+img {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
+}
