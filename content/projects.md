@@ -4,6 +4,15 @@ date = "2021-05-08"
 aliases = ["projects","instances"]
 +++
 
+## GitHub projects
+
+- [Feeling Hungry](https://github.com/SachaGoldman/FeelingHungry?tab=readme-ov-file#feelinghungry): web app using an **NLP** model to recommend healthy alternatives to cravings. Uses embeddings from **spaCy** , with custom vector database using **FAISS** for speed. Uses DuckDuckGo and Google Maps APIs to quickly return rich search results. Categorizes food options with similar vector embeddings using nutrition facts like fat and sodium levels.
+- [SuperMarAI](https://github.com/Cubevoid/SuperMarAI): AI trained using NEAT, a genetic algorithm, to play Super Mario. Emulates the game using gym; similar to **reinforcement learning**.
+- Contributions to various **open-source** projects such as [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage), a tool for generating Linux versions of apps, or GNOME (Linux desktop) extension [audio-output-switcher](https://github.com/adaxi/audio-output-switcher)
+- [Mathler solver](https://github.com/Cubevoid/mathler-solver): finds solutions for Mathler, a Wordle-like game. Improves on brute-force by constraining search space
+
+## Other projects
+
 My longest ongoing project has been my server which I run at home.
 
 I bought some ten-year-old HP Enterprise server on eBay and simply slapped in some new hard drives!
