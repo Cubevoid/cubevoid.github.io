@@ -6,6 +6,7 @@ aliases = ["projects","instances"]
 
 ## GitHub projects
 
+- [Atari Object Prediction](https://github.com/Cubevoid/atari-obj-pred): **Transformer** + **CNN**-based model to predict future object locations in Atari games using masks from foundational models like **Segment Anything** or **YOLO**, in order to improve performance of general RL-based agents.
 - [Feeling Hungry](https://github.com/SachaGoldman/FeelingHungry?tab=readme-ov-file#feelinghungry): web app using an **NLP** model to recommend healthy alternatives to cravings. Uses embeddings from **spaCy** , with custom vector database using **FAISS** for speed. Uses DuckDuckGo and Google Maps APIs to quickly return rich search results. Categorizes food options with similar vector embeddings using nutrition facts like fat and sodium levels.
 - [SuperMarAI](https://github.com/Cubevoid/SuperMarAI): AI trained using NEAT, a genetic algorithm, to play Super Mario. Emulates the game using gym; similar to **reinforcement learning**.
 - Contributions to various **open-source** projects such as [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage), a tool for generating Linux versions of apps, or GNOME (Linux desktop) extension [audio-output-switcher](https://github.com/adaxi/audio-output-switcher)
